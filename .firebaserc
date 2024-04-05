@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bsc-fps-training"
+  },
+  "targets": {
+    "bsc-fps-training": {
+      "hosting": {
+        "bsc-fps-firebase": [
+          "bsc-fps-training"
+        ]
+      }
+    }
+  }
+}
